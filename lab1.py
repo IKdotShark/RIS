@@ -75,7 +75,6 @@ plt.xlabel('Время')
 plt.ylabel('Вероятность')
 plt.legend()
 plt.grid()
-plt.show()
 
 # Интенсивность отказов
 plt.figure(figsize=(10, 6))
